@@ -1,0 +1,9 @@
+columns format version: 1
+7 columns:
+`id` UInt64
+`value` Float64
+`client_id` UInt64
+`client_name` String
+`payment_date` Date
+`manager_name` Nullable(String)
+`manager_email` Nullable(String)
